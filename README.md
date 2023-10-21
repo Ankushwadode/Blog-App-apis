@@ -21,3 +21,10 @@ Postman is used to call apis.
 
 ### All Api Documentation
 http://localhost:8080/swagger-ui/index.html for all api request 
+
+### Interaction 
+eamil : admin@gmail.com
+password : 123
+
+Above id pasword gives access to all the apis you can go through each and every funcationality of the application.
+The existing bug in the application is role assigment to user which let the application who is admin and who is normal user.
