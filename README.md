@@ -27,4 +27,4 @@ eamil : ankush@gmail.com
 password : 123123
 
 Above id pasword gives access to all the apis you can go through each and every funcationality of the application.
-The existing bug in the application is role assigment to user which let the application who is admin and who is normal user.
+The existing bug in the application is role assigment to user which make difference between admin and normal user of the application.
